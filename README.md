@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Flutter,GetX,Provider,OOPS,Dart,Html5,CSS3,Firebase**
 
-- 📫 How to reach me **harikrishnancr1725@gmail.com**
+- 📫 How to reach me **crharikrishnancr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t9x6tp4kHhyHJx6YUuKt4J_wNRVPR_At/view?usp=share_link](https://drive.google.com/file/d/1t9x6tp4kHhyHJx6YUuKt4J_wNRVPR_At/view?usp=share_link)
+- 📄 Know about my experiences https://harikrishnancr.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
