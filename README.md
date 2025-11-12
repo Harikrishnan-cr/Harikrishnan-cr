@@ -1,30 +1,141 @@
-<h1 align="center">Hi 👋, I'm Harikrishnan CR</h1>
-<h3 align="center">Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan-cr&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan-cr" /> </p>
+# Hi 👋, I'm Harikrishnan CR
 
-- 🔭 I’m currently working on [Grocery selling app](https://github.com/Harikrishnan-cr/BigMart)
+### Senior Mobile Application Developer | Flutter Architect
 
-- 🌱 I’m currently learning **MySQL**
+![Profile Views](https://komarev.com/ghpvc/?username=harikrishnan-cr&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harikrishnan-cr](https://github.com/Harikrishnan-cr)
+## 🚀 About Me
 
-- 💬 Ask me about **Flutter,GetX,Provider,OOPS,Dart,Html5,CSS3,Firebase**
+Senior Flutter developer with **3+ years** of professional experience specializing in scalable, production-grade mobile applications. Expert in implementing clean architecture patterns, state management solutions, and modern development practices for cross-platform applications.
 
-- 📫 How to reach me **crharikrishnancr@gmail.com**
+## 🎯 Current Focus
 
-- 📄 Know about my experiences https://harikrishnancr.com/
+- 🔭 Building [ProCode - E-Learning Platform](https://github.com/Harikrishnan-cr/ProCode) - Empowering students to learn new skills
+- 🌱 Expanding expertise in **Go Lang** for backend microservices and **MySQL** for database optimization
+- 📦 Maintaining [media_compressor](https://pub.dev/packages/media_compressor) package - **100+ downloads**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harikrishnan c r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishnan c r" height="30" width="40" /></a>
+## 💡 Technical Expertise
+
+### Mobile Development
+- **Framework:** Flutter, Dart (Advanced)
+- **State Management:** BLoC Pattern, GetX, Provider, Riverpod
+- **Architecture Patterns:** Clean Architecture, MVVM, MVC, Domain-Driven Design (DDD), Feature-First Architecture
+- **BLoC Implementation:** State management with Cubit, Event-State pattern, Reactive programming
+
+### Platform Integration
+- **Native Channels:** Method Channel, Event Channel, Platform Channel for native iOS/Android integration
+- **Platform-Specific APIs:** Camera, Location, Biometrics, Push Notifications
+- **Deep Linking:** Universal Links (iOS), App Links (Android)
+
+### Backend & Database
+- **Backend:** Firebase (Firestore, Authentication, Cloud Functions), REST API integration
+- **Database:** MySQL, SQLite, Hive (NoSQL), Shared Preferences
+- **Real-time:** WebSocket, Firebase Realtime Database, Stream Controllers
+
+### DevOps & CI/CD
+- **CI/CD:** GitHub Actions, Codemagic, Fastlane
+- **Testing:** Unit Testing, Widget Testing, Integration Testing, Golden Tests
+- **Code Quality:** Static Analysis, Linting, Code Coverage
+- **Version Control:** Git Flow, Feature Branching, Pull Request workflows
+
+### Software Design
+- **Principles:** SOLID, DRY, KISS, YAGNI
+- **Design Patterns:** Singleton, Factory, Repository, Dependency Injection
+- **Clean Code:** Code refactoring, Technical debt management
+- **Architecture:** Layered architecture (Presentation, Domain, Data)
+
+### UI/UX Development
+- **Design Tools:** Figma, Adobe XD
+- **Responsive Design:** Adaptive layouts, Screen size handling
+- **Animations:** Custom animations, Hero transitions, Implicit/Explicit animations
+- **Theming:** Dark mode, Custom themes, Material Design 3
+
+## 🛠️ Technology Stack
+
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & State Management
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harikrishnan-cr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishnan-cr&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnan-cr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishnan-cr&show_icons=true&locale=en&layout=compact" alt="harikrishnan-cr" /></p>
+## 🏆 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikrishnan-cr&show_icons=true&locale=en" alt="harikrishnan-cr" /></p>
+### 🎓 [ProCode - E-Learning Platform](https://github.com/Harikrishnan-cr/ProCode)
+A comprehensive e-learning platform built with Flutter, empowering students to learn new technical skills through interactive courses, assessments, and real-time progress tracking.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishnan-cr&" alt="harikrishnan-cr" /></p>
+**Tech Stack:** Flutter, BLoC, Clean Architecture, Firebase, REST API
+
+### 📦 [media_compressor](https://pub.dev/packages/media_compressor)
+High-performance Flutter package for efficient media compression with customizable quality settings. Achieved **100+ downloads** in the first week.
+
+**Features:** Image/Video compression, Custom quality control, Cross-platform support
+
+## 💼 Professional Approach
+
+```dart
+class MyDevelopmentPhilosophy {
+  final principles = [
+    'Write clean, maintainable, and testable code',
+    'Follow SOLID principles and design patterns',
+    'Implement proper error handling and logging',
+    'Optimize for performance and user experience',
+    'Continuous learning and staying updated with best practices'
+  ];
+  
+  Architecture get preferred => CleanArchitecture(
+    presentation: BLoC(),
+    domain: UseCases(),
+    data: Repository(),
+  );
+}
+```
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnan-c-r)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crharikrishnancr@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://harikrishnancr.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harikrishnan-cr)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harikrishnan-cr&theme=tokyo-night&hide_border=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harikrishnan-cr&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+⭐️ From [Harikrishnan CR](https://github.com/Harikrishnan-cr)
