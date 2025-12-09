@@ -19,7 +19,7 @@ Senior Flutter developer with **3+ years** of professional experience specializi
 ### Mobile Development
 - **Framework:** Flutter, Dart (Advanced)
 - **State Management:** BLoC Pattern, GetX, Provider, Riverpod
-- **Architecture Patterns:** Clean Architecture, MVVM, MVC, Domain-Driven Design (DDD), Feature-First Architecture
+- **Architecture Patterns:** MVVM, MVC,
 - **BLoC Implementation:** State management with Cubit, Event-State pattern, Reactive programming
 
 ### Platform Integration
